@@ -12,7 +12,7 @@ Zinan shop is an open source ecommerce platform management system using laravel.
 
 - Clone the repo.
 - Run 'composer install'
-- Run 'copy .env.example .env'
+- Run 'cp .env.example .env'
 - Run 'php artisan migrate --seed'
 
 

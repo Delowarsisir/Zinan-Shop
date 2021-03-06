@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost/Zinan%20Shop/'),
+    'url' => env('APP_URL', 'http://localhost/Zinan-Shop/public/'),
 
     'asset_url' => env('ASSET_URL', null),
 
